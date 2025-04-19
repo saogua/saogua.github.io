@@ -1,0 +1,14 @@
+收集了一些套餐列表，分享如下
+官方网址，覆盖95%以上宽带套餐(含部分隐藏营业厅不能直接办理的套餐)
+
+电信
+
+https://w.189.cn/mpa/changeProvince.action?provinceCode=609001&ct=2&hdid=10007
+移动
+
+https://ngwlanmksc.cmcc-cs.cn/ngwlanmkh5/h5/module/broadbandAppointment.html
+联通
+
+https://m.10010.com/queen/new-broadband-web/new-broadband-web.html?activeId=8818100954349604
+
+部分知道名字的套餐可以咨询 电信小知 移动10086在线客服(不知道名字的客服是不会给你办理的)

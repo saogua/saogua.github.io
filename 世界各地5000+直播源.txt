@@ -1,0 +1,11 @@
+收集来自世界各地的5000多个公共可用IPTV频道。
+
+要观看IPTV，您只需将此链接粘贴https://iptv-org.github.io/iptv/index.m3u到任何支持M3U播放列表的播放器。您也可以使用播放列表的SFW版本https://iptv-org.github.io/iptv/index.sfw.m3u
+
+您也可以改用以下播放列表之一：
+
+https://iptv-org.github.io/iptv/index.country.m3u （按国家分组）
+
+https://iptv-org.github.io/iptv/index.category.m3u （按类别分组）
+
+https://iptv-org.github.io/iptv/index.language.m3u （按语言分组）
